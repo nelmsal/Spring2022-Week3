@@ -2,7 +2,7 @@
 
 ## Week3: Machine Learning, applications - Classification, Dimensionality Reduction
 
-We will work on multiple examples and play with the data to run a complete classification example using a toy dataset. We will discuss 
+We will work on multiple examples and play with the data to run a complete classification example using a toy dataset. We will discuss important concepts in ML: What do we mean by "dimensionality" of a dataset. Why and how we reduce dimensionality?
 
 - [A first ML application](Prac1_boston-house-price-prediction.ipynb) 
 - [A second ML application](Prac4_mnist-fashion_PCA-KNN.ipynb) 
